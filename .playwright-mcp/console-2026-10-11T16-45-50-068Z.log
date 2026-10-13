@@ -1,0 +1,13 @@
+[   32360ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_05y3oi5z9mc_3._.js:719
+[  187886ms] [ERROR] WebSocket connection to 'ws://localhost:3000/_next/hmr?id=yzI8fLU_njuRKt-jUMTYq' failed:  @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js:16225
+[  190896ms] [ERROR] WebSocket connection to 'ws://localhost:3000/_next/hmr?id=yzI8fLU_njuRKt-jUMTYq' failed:  @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js:16225
+[  193572ms] [ERROR] WebSocket connection to 'ws://localhost:3000/_next/hmr?id=yzI8fLU_njuRKt-jUMTYq' failed:  @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js:16225
+[  194876ms] [ERROR] WebSocket connection to 'ws://localhost:3000/_next/hmr?id=yzI8fLU_njuRKt-jUMTYq' failed:  @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js:16225
+[  198195ms] [ERROR] WebSocket connection to 'ws://localhost:3000/_next/hmr?id=yzI8fLU_njuRKt-jUMTYq' failed:  @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js:16225
+[  205513ms] [ERROR] WebSocket connection to 'ws://localhost:3000/_next/hmr?id=yzI8fLU_njuRKt-jUMTYq' failed:  @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js:16225
+[  212333ms] [ERROR] WebSocket connection to 'ws://localhost:3000/_next/hmr?id=yzI8fLU_njuRKt-jUMTYq' failed:  @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js:16225
+[  218634ms] [ERROR] WebSocket connection to 'ws://localhost:3000/_next/hmr?id=yzI8fLU_njuRKt-jUMTYq' failed:  @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js:16225
+[  223893ms] [ERROR] WebSocket connection to 'ws://localhost:3000/_next/hmr?id=yzI8fLU_njuRKt-jUMTYq' failed:  @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js:16225
+[  229891ms] [ERROR] WebSocket connection to 'ws://localhost:3000/_next/hmr?id=yzI8fLU_njuRKt-jUMTYq' failed:  @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js:16225
+[  236783ms] [ERROR] WebSocket connection to 'ws://localhost:3000/_next/hmr?id=yzI8fLU_njuRKt-jUMTYq' failed:  @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js:16225
+[  245083ms] [ERROR] WebSocket connection to 'ws://localhost:3000/_next/hmr?id=yzI8fLU_njuRKt-jUMTYq' failed:  @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_1wygxxh5rwq0t._.js:16225
